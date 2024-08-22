@@ -4,8 +4,8 @@
 
 ```diff
 👋 Hello there, I'm Waldemar!
-@@ I'm a software engineer @@
-+ 🏠 Living in Belo Horizonte, Brazil
-- 🆙 25 years old
-! 📖 Programming, Mathematics, Open Source
+@@ 💻 I'm a software engineer @@
++ 🏡 Living in Belo Horizonte, Brazil
+- 🎂 25 years old
+! 💡 Interests: Programming, Mathematics, Open Source
 ```
