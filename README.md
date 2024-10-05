@@ -3,9 +3,8 @@
 
 
 ```diff
-👋 Hello there, I'm Waldemar!
+👋 Hello there, I'm Soares!
 @@ 💻 I'm a software engineer @@
-+ 🏡 Living in Belo Horizonte, Brazil
 - 🎂 25 years old
-! 💡 Interests: Programming, Mathematics, Open Source
++ 💡 Interests: Programming, Mathematics, Open Source
 ```
